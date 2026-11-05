@@ -16,11 +16,11 @@ The client in `server/lib/agentClient.ts` uses the Gemini Interactions API with 
 
 <table>
   <tr>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=react&size=96" alt="React"></td>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=express&size=96&color=%23ffffff" alt="Express"></td>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=python&size=96" alt="Python"></td>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=googlegemini&size=96&color=%23ffffff" alt="Google Gemini"></td>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=googlecloud&size=96" alt="Google Cloud"></td>
+    <td><img src="https://www.readmecodegen.com/api/social-icon?name=react&size=50" alt="React"></td>
+    <td><img src="https://www.readmecodegen.com/api/social-icon?name=express&size=50&color=%23ffffff" alt="Express"></td>
+    <td><img src="https://www.readmecodegen.com/api/social-icon?name=python&size=50" alt="Python"></td>
+    <td><img src="https://www.readmecodegen.com/api/social-icon?name=googlegemini&size=50&color=%23ffffff" alt="Google Gemini"></td>
+    <td><img src="https://www.readmecodegen.com/api/social-icon?name=googlecloud&size=50" alt="Google Cloud"></td>
   </tr>
 </table>
 
